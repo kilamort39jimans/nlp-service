@@ -2,3 +2,4 @@
 19:59:08 | rating=7995
 19:59:10 | fingerprint=34bb9efb9a0ca692fd6341a19d1861992e9c38bdf342b3262848cdea1bf24b9a
 20:05:08 | duration=721648
+20:05:11 | rating=6351
