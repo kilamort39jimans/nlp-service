@@ -20,3 +20,4 @@
 01:05:10 | rating=4518
 01:05:12 | fingerprint=a7d9bc41ec85b26b5465953e08ff34bc3ecf92adffefc63fd1fd18fa9aec2a9f
 02:05:09 | duration=905525
+02:05:12 | rating=9948
