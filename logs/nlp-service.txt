@@ -18,3 +18,4 @@
 00:05:13 | fingerprint=40970e576bac45df33c8b9c4bf7a59c760bd8b7e958f8728bfb3b43575317ca8
 01:05:08 | duration=943514
 01:05:10 | rating=4518
+01:05:12 | fingerprint=a7d9bc41ec85b26b5465953e08ff34bc3ecf92adffefc63fd1fd18fa9aec2a9f
