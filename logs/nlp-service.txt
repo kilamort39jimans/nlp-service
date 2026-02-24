@@ -95,3 +95,4 @@
 02:05:12 | rating=3989
 02:05:13 | fingerprint=04d795de43fda69db4b83cf9d4e170ced5b2081b1d4e5411fd4f8f8f6f9ae6ec
 03:05:10 | duration=615854
+03:05:12 | rating=8173
