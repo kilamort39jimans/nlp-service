@@ -167,3 +167,4 @@
 02:05:10 | rating=3836
 02:05:12 | fingerprint=d0324c6e02e50c6b9a27e3f6fa6b60efdfd214c68f2a9bd5c853b1aad8b0eaca
 03:05:09 | duration=446074
+03:05:10 | rating=7582
